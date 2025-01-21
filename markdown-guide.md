@@ -7,7 +7,7 @@
 > - El **marcado es como dar instrucciones a un programa para que muestre el texto de una manera específica**.
 > - Un t**exto plano es un texto sin ningun formato**, es decir sin estilos, colores , ni fuentes especiales, solo contiene caracteres simples y basicos , como un block de notas por ejemplo.
 > 
-> ![Diferencias texto sin formato y Markdown](image.png)
+> ![Diferencias texto sin formato y Markdown](img/image.png)
 > 
 > Diferencias texto sin formato y Markdown
 > 
@@ -80,7 +80,7 @@ Algunas aplicaciones tienen configuraciones predeterminadas para agregar lineas 
 
 </aside>
 
-![image.png](image%201.png)
+![image.png](img/image%201.png)
 
 ### **Énfasis (Negritas y Cursivas):**
 
@@ -93,7 +93,7 @@ Algunas aplicaciones tienen configuraciones predeterminadas para agregar lineas 
 ***negrita cursiva***	
 ```
 
-![image.png](image%202.png)
+![image.png](img/image%202.png)
 
 ### Listas
 
@@ -109,7 +109,7 @@ Algunas aplicaciones tienen configuraciones predeterminadas para agregar lineas 
       - Subelemento dos
     ```
     
-    ![image.png](image%203.png)
+    ![image.png](img/image%203.png)
     
 - **Listas ordenadas**
     
@@ -176,7 +176,7 @@ Podemos utilizar los backticks para indicar código en línea: `console.log("Hol
   """Esto es un bloque de codigo"""
 ```
 
-![Ejemplo de un bloque de codigo](image%204.png)
+![Ejemplo de un bloque de codigo](img/image%204.png)
 
 Ejemplo de un bloque de codigo
 
@@ -200,7 +200,7 @@ Ejemplo de un bloque de codigo
     ```
     
 
-![Ejemplo de cita y cita anidada](image%205.png)
+![Ejemplo de cita y cita anidada](img/image%205.png)
 
 Ejemplo de cita y cita anidada
 
@@ -215,7 +215,7 @@ Texto
 parrafo
 ```
 
-![image.png](image%206.png)
+![image.png](img/image%206.png)
 
 ### **Tablas**
 
@@ -255,4 +255,3 @@ Se usan **caracteres de pipe (`|`) para separar las columnas**
         | Carlos       |   28 | Arequipa |
         ```
         
-- **Detalles de Alineación de Texto**
