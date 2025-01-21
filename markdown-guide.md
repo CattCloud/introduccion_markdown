@@ -246,11 +246,18 @@ Se usan **caracteres de pipe (`|`) para separar las columnas**
         > Las siguientes filas contienes los datos de la tablas , **cada celda esta separada por barras verticales**
         > 
         
-        ```html
-        | Nombre       | Edad | Ciudad   |
-        |--------------|-----:|:--------:|
-        | Juan         |   25 | Lima     |
-        | María        |   30 | Cusco    |
-        | Carlos       |   28 | Arequipa |
-        ```
+    | Característica          | HTML                               | Markdown                             |
+    |--------------------------|------------------------------------|--------------------------------------|
+    | **Naturaleza**           | Lenguaje de marcado web          | Lenguaje de marcado ligero           |
+    | **Complejidad**          | Alta                               | Baja                                  |
+    | **Propósito**            | Crear páginas web completas       | Formato de texto, conversión a HTML |
+    | **Sintaxis**             | Compleja, con muchas etiquetas     | Simple, fácil de leer y escribir      |
+    | **Curva de aprendizaje** | Alta                               | Baja                                  |
+    | **Uso común**            | Desarrollo web                     | Documentación, escritura, README     |
+    | **Control sobre diseño** | Muy alto                            | Limitado, depende del procesador     |
+    | **Conversion a HTML**    | No se requiere conversión         | Requiere conversión                   |
+    | **Resaltado de sintaxis**| No inherente, requiere JS          | Depende del procesador, a menudo incluido|
+    | **Compatibilidad**       | Universal en navegadores web       | Amplia, pero depende del procesador  |
+
+    
         
