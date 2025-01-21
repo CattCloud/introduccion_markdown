@@ -74,9 +74,8 @@ Los documentos se crean con extensión **`.md`**.
 ```
 
 <aside>
-💡
 
-Algunas aplicaciones tienen configuraciones predeterminadas para agregar lineas horizontales luego de un encabezado h1,h2 sin necesidad de indicarlo
+💡 Algunas aplicaciones tienen configuraciones predeterminadas para agregar lineas horizontales luego de un encabezado h1,h2 sin necesidad de indicarlo
 
 </aside>
 
